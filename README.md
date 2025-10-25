@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Justine M. Arandia
+### Passionate Full-Stack Developer | ReactJS • Python Django • PHP Laravel
 
-<!--
-**jstn-rnd/jstn-rnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I'm a passionate **full-stack developer** who loves building clean and efficient web applications with **JavaScript**, **Python**, and **web technologies** — specializing in frontend and familiar with backend logic to interactive UI design. I also enjoy software testing and QA analysis as I value precision, reliability, and UX just as much as innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages  
+Python • JavaScript • HTML • CSS • C++ 
+
+---
+
+### 🧰 Other Tools
+GitHub • VS Code • Postman • Selenium IDE • MySQL
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jstn-rnd&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jstn-rnd&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me 
+📧 [**Email**](mailto:arandiajustine12l@example.com)  💼 [**LinkedIn**](https://www.linkedin.com/in/justine-arandia-241126330/)
+
+---
+
+⭐️ *“Code is best when it makes complex things simple.”*
