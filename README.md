@@ -7,7 +7,7 @@ I'm a passionate **full-stack developer** who loves building clean and efficient
 ---
 
 ### 💻 Languages  
-Python • JavaScript • HTML • CSS • C++ 
+JavaScript • Python • HTML • CSS • C++ 
 
 ---
 
