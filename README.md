@@ -23,7 +23,7 @@ GitHub • VS Code • Postman • Selenium IDE • MySQL
 
 ---
 
-### 👨‍💼 Old Account
+### 👨‍💼 Old Account <sup>(no longer active)</sup>
 This is the account I mainly used for version control and commits during our capstone project development.
 **https://github.com/jstnrnd/**
 
