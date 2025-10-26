@@ -33,4 +33,8 @@ This is the account I mainly used for version control and commits during our cap
 
 ---
 
-⭐️ *“Code is best when it makes complex things simple.”*
+⭐️ Feel free to explore my starred repositories — some of them feature my contributions.
+**https://github.com/jstn-rnd?tab=stars**
+
+--- 
+✨ *“Code is best when it makes complex things simple.”*
