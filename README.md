@@ -23,6 +23,11 @@ GitHub • VS Code • Postman • Selenium IDE • MySQL
 
 ---
 
+### 👨‍💼 Old Account
+This is the account I mainly used for version control and commits during our capstone project development.
+**https://github.com/jstnrnd/**
+
+---
 ### 🌐 Connect With Me 
 📧 [**Email**](mailto:arandiajustine12l@example.com)  💼 [**LinkedIn**](https://www.linkedin.com/in/justine-arandia-241126330/)
 
